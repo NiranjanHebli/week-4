@@ -68,7 +68,7 @@ Flattens a nested list and removes even numbers.
 
 
 ### Output:-
-![alt text](flatten_output.png)
+![alt text](assets/flatten_output.png)
 
 
 # Q3. Conceptual

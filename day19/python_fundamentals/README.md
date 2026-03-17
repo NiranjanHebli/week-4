@@ -13,7 +13,9 @@ This task demonstrate how to implement basic statistical operations in Python us
 - Verified manual statistical results using NumPy for reliability.
 - Compared two datasets using descriptive statistics to understand differences in distribution.
 
-## File:- [fundamentals.ipynb](./fundamentals.ipynb)
+## File:-
+
+##  [fundamentals.ipynb](./fundamentals.ipynb)
 
 
 ## Part B - Stretch Problem
