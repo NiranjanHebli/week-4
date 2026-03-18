@@ -16,3 +16,9 @@ This repo contains assignments given in week-4. The assignments are written in P
 
 [Day 19 - PM - Assignment](day19/probability_distributions/README.md)
 
+[Day 20 - AM - Assignment](day20/python_fundamentals/README.md)
+
+[Day 20 - PM - Assignmnet](day20/probability_distributions/README.md)
+
+
+
