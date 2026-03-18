@@ -39,3 +39,12 @@ The Vector class represents a mathematical vector using a tuple of numbers. It d
 ## File:-
 
 ### [`python_fundamentals.ipynb`](./python_fundamentals.ipynb) (scroll down)
+
+
+## Part C - Interview Ready
+
+### Solutions in :- [interview_answers.md](./interview_answers.md)
+
+## Part D - AI Augmented
+
+### Solutions in :- [ai_augmented.md](./ai_augmented.md)
