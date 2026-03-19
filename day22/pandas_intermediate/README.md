@@ -1,4 +1,4 @@
-# Day 22 - AM - Pandas Intermediate
+# Day 22 - PM - Pandas Intermediate
 
 ## Part A - Concept Application
 
