@@ -45,3 +45,12 @@ This task covers matrix computation using NumPy for efficient linear algebra ope
 ## File:-
 
 ### [`numpy_fundamentals.ipynb`](numpy_fundamentals.ipynb) (scroll down)
+
+
+## Part C - Interview Ready
+
+### Solutions in :- [interview_answers.md](./interview_answers.md)
+
+## Part D - AI Augmented
+
+### Solutions in :- [ai_augmented.md](./ai_augmented.md)
