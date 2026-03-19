@@ -1,4 +1,4 @@
-# Day 20 - AM - Probability Distribution
+# Day 21 - AM - Numpy Hands On 
 
 ## Part A - Concept Application
 
