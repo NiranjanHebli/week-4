@@ -22,5 +22,6 @@ This repo contains assignments given in week-4. The assignments are written in P
 
 [Day 21 - AM - Assignment](day21/numpy_hands_on/README.md)
 
+[Day 21 - PM - Assignmnet](day21/ml_fundamentals/README.md)
 
 
