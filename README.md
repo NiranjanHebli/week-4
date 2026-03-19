@@ -20,5 +20,7 @@ This repo contains assignments given in week-4. The assignments are written in P
 
 [Day 20 - PM - Assignmnet](day20/probability_distributions/README.md)
 
+[Day 21 - AM - Assignment](day21/numpy_hands_on/README.md)
+
 
 
