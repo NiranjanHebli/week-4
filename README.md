@@ -24,4 +24,6 @@ This repo contains assignments given in week-4. The assignments are written in P
 
 [Day 21 - PM - Assignmnet](day21/ml_fundamentals/README.md)
 
+[Day 22 - AM - Assignment](day22/pandas_ml/README.md)
+
 
